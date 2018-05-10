@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523468950 source:c:\users\rodri\documents\codeblocks\trabalhoestrutura\main.c
+	"stdio.h"
+	"trabalhoEstrutura.c"
+
+1523461779 c:\users\rodri\documents\codeblocks\trabalhoestrutura\trabalhoestrutura.c
+	"trabalhoEstrutura.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1523469077 c:\users\rodri\documents\codeblocks\trabalhoestrutura\trabalhoestrutura.h
+	<stdio.h>
+
