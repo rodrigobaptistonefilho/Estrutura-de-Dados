@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525214640 source:c:\users\rodri\documents\codeblocks\trabalhob\trabalhob.c
+	"trabalhoB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525200639 c:\users\rodri\documents\codeblocks\trabalhob\trabalhob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525200638 source:c:\users\rodri\documents\codeblocks\trabalhob\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalhoB.h"
+
